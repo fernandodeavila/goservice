@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@Controller //conversa direto com  o front
+@Controller //conversa direto com  o frontghg
 @RequestMapping(value = "/")
 public class HomeController {
     @GetMapping
